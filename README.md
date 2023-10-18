@@ -8,4 +8,4 @@ Includes instructions on how to install, configure, and run the project.
 Describes how users can interact with the project, including input formats and expected output.
 
 ### Contributing: 
-Outlines guidelines and processes for contributing to the project, such as bug reporting and submitting pull requests.
+Outlines guidelines and processes for contributing to the project, such as bug reporting and submitting pull requests
